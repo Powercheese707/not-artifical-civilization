@@ -1,0 +1,1 @@
+When making this game I wanted to incoporate the theme "Bounce Back" in a unique way and build a unique game. In the end, I made a game where you traveled back in time to stop the growth of AI by building a civilization powerful enough to stop it.
